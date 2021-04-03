@@ -1,0 +1,48 @@
+html, body {
+	overflow-x: hidden;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+.headn {
+	background-color: #864000;
+	height: 150px;
+	line-height: 150px;
+}
+#head_text {
+	font-size: 45px;
+	color: #ffefcf;
+	text-align: center;
+	vertical-align: middle;
+}
+.map {
+	padding-top: 5px;
+	position: relative;
+}
+svg {
+	position: absolute;
+}
+#map_img {
+	width: 100%;
+
+}
+.street {
+	opacity: 0;
+	cursor: pointer;
+}
+.info {
+	display: none;
+	position: fixed;
+	width: 200px;
+	height: 250px;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 2px;
+	left: 20px;
+	bottom: 20px;
+	padding: 5px;
+}
+#next {
+	text-decoration: none;
+}

@@ -1,0 +1,35 @@
+html, body {
+	overflow-x: hidden;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+.headn {
+	background-color: #864000;
+	height: 150px;
+	line-height: 150px;
+}
+#head_text {
+	font-size: 45px;
+	color: #ffefcf;
+	text-align: center;
+	vertical-align: middle;
+}
+h1 {
+	text-align: center;
+}
+img {
+	float: left;
+	width: 15%;
+	padding: 0px 5px 0px 5px;
+}
+.main_text {
+	padding-top: 5px;
+	vertical-align: top;
+}
+a {
+	text-decoration: none;
+	font-size: 20px;
+	color: #864000;
+}
