@@ -34,8 +34,8 @@ svg {
 .info {
 	display: none;
 	position: fixed;
-	width: 200px;
-	height: 250px;
+	width: 230px;
+	height: 280px;
 	background-color: white;
 	border: 1px solid black;
 	border-radius: 2px;
