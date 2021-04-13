@@ -29,7 +29,7 @@ html, body {
 	word-break: break-all;
 }
 @media (min-width: 0px) and (max-width: 1200px) {
-.map {
+#map {
 	height: 2500px;
 }
 }
