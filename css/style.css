@@ -16,13 +16,17 @@ html, body {
 	text-align: center;
 	vertical-align: middle;
 }
-.map {
+#map {
+	width: 100%;
 	padding-top: 5px;
 	position: relative;
 	height: 1500px;
 }
 #next {
 	text-decoration: none;
+}
+#text_br {
+	word-break: break-all;
 }
 @media (min-width: 0px) and (max-width: 1200px) {
 .map {
