@@ -27,9 +27,20 @@ html, body {
 }
 #text_br {
 	word-break: break-all;
+	font-size: 15px;
+}
+h1 {
+	line-height: 110%;
 }
 @media (min-width: 0px) and (max-width: 1200px) {
 #map {
 	height: 2500px;
+}
+#text_br {
+	font-size: 25px;
+	line-height: 110%;
+}
+h1 {
+	font-size: 30px;
 }
 }
