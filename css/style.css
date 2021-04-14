@@ -29,8 +29,9 @@ html, body {
 	word-break: break-all;
 	font-size: 15px;
 }
-h1 {
+p {
 	line-height: 110%;
+	font-size: 20px;
 }
 @media (min-width: 0px) and (max-width: 1200px) {
 #map {
@@ -40,7 +41,7 @@ h1 {
 	font-size: 25px;
 	line-height: 110%;
 }
-h1 {
+p {
 	font-size: 30px;
 }
 }
